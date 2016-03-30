@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bakersfieldtattooremoval]]></title>
         <description><![CDATA[Bakersfieldtattooremoval]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bakersfieldtattooremoval/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 20:28:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 02:41:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bakersfieldtattooremoval/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>All Natural, Non-Laser Tattoo Removal using Tattoo Vanish® Method.</p>]]></description>
+            <link>https://thegrid.ai/bakersfieldtattooremoval/all-natural-non-laser-tattoo-removal-using-tattoo-vanishr-m/index.html</link>
+            <guid isPermaLink="false">633c1c40-7af5-4811-81ce-fd96a7727a24</guid>
+            <pubDate>Wed, 30 Mar 2016 02:41:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/666865e8-3d26-486c-80e8-f0d6b7b47bd6.png">]]></description>
-            <link>undefinedb4d33b84-033f-4a7e-9bfa-06c9c9edeae5/index.html</link>
+            <link>https://thegrid.ai/bakersfieldtattooremoval/b4d33b84-033f-4a7e-9bfa-06c9c9edeae5/index.html</link>
             <guid isPermaLink="false">b4d33b84-033f-4a7e-9bfa-06c9c9edeae5</guid>
             <pubDate>Wed, 16 Mar 2016 20:28:36 GMT</pubDate>
         </item>
