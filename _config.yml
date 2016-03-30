@@ -1,7 +1,7 @@
 name: Bakersfieldtattooremoval
 favicon: null
-layout_spectrum: 0.3972276
-typography_spectrum: 0.1938114
+layout_spectrum: 0.99549
+typography_spectrum: 0.75722
 title: Non-Laser Tattoo Removal
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6380989
-  lightness: 0.7985083
-  saturation: 0.910616
-  rhythmicContrast: 0.1319646
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
