@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'All Natural, Non-Laser Tattoo Removal using Tattoo Vanish® Method.'
-datePublished: '2016-03-30T02:41:08.149Z'
-dateModified: '2016-03-30T02:39:55.588Z'
+datePublished: '2016-03-30T04:28:22.345Z'
+dateModified: '2016-03-30T03:22:47.264Z'
 title: ''
 author: []
 authors: []
@@ -28,7 +28,7 @@ Do you or someone you know have an unwanted tattoo?
 
 Have you been hesitant to have it removed because of the pain and price of traditional methods of removing tattoos?
 
-Here is a brief overview of the Tattoo Vanish Method.
+Here is a brief overview of The Tattoo Vanish Method.
 
 There are no color restrictions with this method. It brings ALL colors of ink up and out of the body.
 
